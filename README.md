@@ -9,7 +9,7 @@ Imagens da página
 ![spotify 2](https://user-images.githubusercontent.com/82004716/120951793-06afd680-c720-11eb-98ca-08aeb949cca4.png)
 ![spotify](https://user-images.githubusercontent.com/82004716/120951800-09aac700-c720-11eb-9819-6df13825b2f2.png)
 
-Link para ver o video do música tocando na página:
+Link para ver o video da música tocando na página:
 
 https://s17.aconvert.com/convert/p3r68-cdx67/4p75z-wgxyk.mp4
 
